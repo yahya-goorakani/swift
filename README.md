@@ -20,7 +20,7 @@ This SwiftUI project demonstrates a 3D scene rendered using Apple's SceneKit fra
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/SceneKit-SwiftUI-Playground.git
+    git clone https://github.com/yahya-goorakani/SceneKit-SwiftUI-Playground.git
     ```
 
 2. Navigate to the project directory:
@@ -56,5 +56,5 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 
 ## Support
 
-For questions or feedback, [open an issue](https://github.com/your-username/SceneKit-SwiftUI-Playground/issues).
+For questions or feedback, [open an issue](https://github.com/yahya-goorakani/SceneKit-SwiftUI-Playground/issues).
 
