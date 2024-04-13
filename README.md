@@ -20,17 +20,17 @@ This SwiftUI project demonstrates a 3D scene rendered using Apple's SceneKit fra
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yahya-goorakani/SceneKit-swift.git
+    git clone https://github.com/yahya-goorakani/swift.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd SceneKit-SwiftUI-Playground
+    cd swift
     ```
 
 3. Open the project in Xcode:
     ```bash
-    open SceneKit-SwiftUI-Playground.xcodeproj
+    open project0.xcodeproj
     ```
 
 4. Run the project using the simulator or connect an iOS device and run the app.
@@ -56,5 +56,5 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 
 ## Support
 
-For questions or feedback, [open an issue](https://github.com/yahya-goorakani/SceneKit-swift/issues).
+For questions or feedback, [open an issue](https://github.com/yahya-goorakani/swift/issues).
 
